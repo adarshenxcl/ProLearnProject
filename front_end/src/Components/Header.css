@@ -1,0 +1,60 @@
+body {
+    margin-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* position:sticky;
+     */
+}
+
+.main-header {
+   
+    background-image: linear-gradient(to right, #FFA500, #E78127);
+    color: #f4f1f1;
+    /* margin-bottom: 250px; */
+    height: 104px;
+    width: 100%;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+
+
+
+
+.main-nav ul {
+   
+   
+    display: flex;
+}
+
+
+.main-nav li {
+    margin-right: 50px;
+}
+
+
+.main-nav a {
+    text-decoration: none;
+    color: #191717;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+
+
+/* Add some styles for hover effect or other customizations */
+.main-nav a:hover {
+    color: #d55a18; /* Change color on hover */
+}
+.drop{
+    margin-right: 80px;
+}
+.image{
+    margin-right: 1000px;
+    width: 34%;
+    padding-right: 170px;
+   
+}

@@ -1,0 +1,7 @@
+.sticky-header th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: rgb(230, 224, 224);
+  }
+  

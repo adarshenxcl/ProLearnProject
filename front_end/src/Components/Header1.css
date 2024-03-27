@@ -1,0 +1,55 @@
+
+
+.custom-header {
+    background-image: linear-gradient(to right, #FFA500, #E78127);
+    color: #f4f1f1;
+    margin-bottom: 150px;
+    height: 90px;
+    width: 100%;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 30px;
+    margin-top: 0px;
+  }
+  
+  /* Navigation styles */
+  .custom-nav ul {
+    list-style-type: none;
+    padding: 0;
+    padding-right: 100px;
+  }
+  
+  .custom-nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  /* Profile dropdown styles */
+  .custom-dropdown .dropdown-toggle {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .custom-dropdown .dropdown-toggle:hover {
+    color: #ccc;
+  }
+  
+  .custom-dropdown .dropdown-menu {
+    background-color: #333;
+  }
+  
+  .custom-dropdown .dropdown-item {
+    color: #fff;
+  }
+  
+  .custom-dropdown .dropdown-item:hover {
+    background-color: #555;
+  }
+  
+  /* User name styles */
+  .user-name {
+    font-weight: bold;
+  }
+  

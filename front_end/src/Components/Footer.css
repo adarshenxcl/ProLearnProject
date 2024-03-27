@@ -1,0 +1,17 @@
+.footer {
+    background-color:none; /* Background color for the footer */
+    color: #1b1717; /* Text color for the footer */
+    padding: 20px; /* Padding inside the footer */
+    text-align: center; /* Center-align text */
+}
+
+
+.footer a {
+    color: #121010; /* Link color in the footer */
+    text-decoration: none; /* Remove underlines from links */
+}
+
+
+.footer a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}

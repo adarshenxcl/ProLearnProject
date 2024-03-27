@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffdab63b.css",
+    "main.js": "/static/js/main.efc99fa6.js",
+    "static/js/453.f7be5b23.chunk.js": "/static/js/453.f7be5b23.chunk.js",
+    "static/media/enxcllogo.png": "/static/media/enxcllogo.859e7e294740c0e09f17.png",
+    "static/media/siplogo.png": "/static/media/siplogo.9803c14d6f0e4d488855.png",
+    "static/media/badge4.avif": "/static/media/badge4.220dd65660a41bcf4c66.avif",
+    "static/media/badge3.avif": "/static/media/badge3.97933c2f5b57b2c63a96.avif",
+    "static/media/badge2.avif": "/static/media/badge2.596eb6a827d4826e3807.avif",
+    "static/media/badge1.avif": "/static/media/badge1.99e939858246e90395f6.avif",
+    "index.html": "/index.html",
+    "main.ffdab63b.css.map": "/static/css/main.ffdab63b.css.map",
+    "main.efc99fa6.js.map": "/static/js/main.efc99fa6.js.map",
+    "453.f7be5b23.chunk.js.map": "/static/js/453.f7be5b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffdab63b.css",
+    "static/js/main.efc99fa6.js"
+  ]
+}
